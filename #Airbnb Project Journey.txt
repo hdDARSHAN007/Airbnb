@@ -1,0 +1,11 @@
+#Airbnb Project Journey
+
+Day1
+
+i have done a basic  setup of next.js framework
+i created components/Navbar.js and use that and updated in page.tsx react
+i unerstand how navbar and (Home Page) =>page.tsx 
+Tailwind css is styling System
+import/export for connections of files
+next.js route based rendering
+
